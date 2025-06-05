@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 US_Accidents_March23.csv
 accidents.pkl
+kde_completo.pkl
+kde_redux.pkl
+lat_grid.npy
+lng_grid.npy
 archive.zip
 __pycache__/
 *.py[cod]
